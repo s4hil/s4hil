@@ -1,0 +1,101 @@
+@media only screen and (max-width: 768px){
+
+	.container {
+		padding: 5px;
+	}
+
+	.navbar-nav{
+		background-color: #232931;
+	}
+
+
+	.nav-link {
+		display: flex;
+		align-items: center;
+	}
+
+	.nav-item i {
+		display: block;
+		margin: 0px 6px 0px 6px;
+
+	}
+
+	.main-head {
+		font-size: 2rem !important;
+	}
+
+	.cursor {
+		font-size: 1rem !important;
+	}
+
+	.my-pic {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+	}
+
+	.page-header {
+		font-size: 2rem;
+	}
+
+	.social-icons i {
+		font-size: 1.5rem;
+	}
+
+	.hero {
+		font-size: small;
+	}
+
+	.bio-content {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: : center;
+	}
+
+	.about-me {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		margin: 20px auto;
+	}
+
+	.skills {
+		padding: 20px;
+		height: 100%;
+		width: 100%;
+		background-color: #232931;
+	}
+
+	.skills-content {
+		padding: 20px;
+	}
+
+	.icons i{
+		display: block;
+		font-size: 3rem;
+		color: #4ecca3;
+	}
+
+	.project-cards-container {
+		padding-bottom: 2rem;
+	}
+
+	.project-cards-container .project {
+		width: 100%;
+		margin: 0px;
+		margin: 2rem;
+	}
+	.project-cards-container .project header {
+		font-size: 1.25rem;
+	}
+	.form-container form {
+		width: 90%;
+	}
+
+	section {
+		padding: 5px !important;
+	}
+}
